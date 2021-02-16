@@ -1,0 +1,24 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "start": "index.js",
+    "dev": "nodemon index.js",
+    "url": "git+https://github.com/Lauravdearmas/class-objetos.git"
+  },
+  "author": "Lauravdearmas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lauravdearmas/class-objetos/issues"
+  },
+  "homepage": "https://github.com/Lauravdearmas/class-objetos#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
